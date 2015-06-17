@@ -1,4 +1,4 @@
-=== ThreeWP Broadcast ===
+=== Plainview Protect Passwords ===
 Contributors: edward_plainview
 License: GPLv3
 Requires at least: 4.2.2
